@@ -1,0 +1,18 @@
+.card-body {
+  padding: .25rem .5rem !important;
+}
+
+.sender {
+  background-color: #47a0ff !important;
+  color: #fff !important;
+}
+
+.receiver {
+  background-color: #ffab2c !important;
+  color: #fff !important;
+}
+
+.card {
+  border: unset !important;
+  border-radius: 15px;
+}
